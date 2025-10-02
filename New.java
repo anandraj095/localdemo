@@ -5,5 +5,7 @@ public class New {
         System.out.println("Anand Raj.");
         System.out.println("2024068");
         System.out.println("Hi");
+        System.out.println("Bye");
+
     }
 }
